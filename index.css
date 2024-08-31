@@ -66,3 +66,23 @@ video::media-controls {
     border: 1px solid rgb(52, 52, 122);
     border-radius: 20px;
 }
+
+.higlight{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right:200px ;
+    background-color: rgba(33, 32, 32, 0.814);
+    padding-top: 50px;
+}
+.film{
+    display: flex;
+    justify-content: space-between !important ;
+    color: blueviolet;
+    padding-top: 60px;
+}
+
+.phone-bg{
+     padding-left: 100px;
+    background-color:  rgba(33, 32, 32, 0.814);;
+}
